@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TwitterApp</string>
+    <string name="com_twitter_sdk_android_CONSUMER_KEY">qFQExz5t6rMBLVevvvQTxbEOO</string>
+    <string name="com_twitter_sdk_android_CONSUMER_SECRET">I50Ww3pdJnIvWVy3mwd2r2nhQEjmFsUqkc2u3HO19d98iUHJGb</string>
+    <string name="login_text">See what\'s\nhappening in the\nworld right now.</string>
+</resources>
